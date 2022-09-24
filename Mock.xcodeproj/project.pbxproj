@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		B4EBA74128DF326000CE7AAB /* .mockend.json in Resources */ = {isa = PBXBuildFile; fileRef = B4EBA74028DF326000CE7AAB /* .mockend.json */; };
+		B4EBA74328DF43E500CE7AAB /* db.json in Resources */ = {isa = PBXBuildFile; fileRef = B4EBA74228DF43E500CE7AAB /* db.json */; };
 		B4F25FA028DF315E00B08D71 /* MockApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4F25F9F28DF315E00B08D71 /* MockApp.swift */; };
 		B4F25FA228DF315E00B08D71 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4F25FA128DF315E00B08D71 /* ContentView.swift */; };
 		B4F25FA428DF316000B08D71 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B4F25FA328DF316000B08D71 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 
 /* Begin PBXFileReference section */
 		B4EBA74028DF326000CE7AAB /* .mockend.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = .mockend.json; sourceTree = "<group>"; };
+		B4EBA74228DF43E500CE7AAB /* db.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = db.json; sourceTree = "<group>"; };
 		B4F25F9C28DF315E00B08D71 /* Mock.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Mock.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4F25F9F28DF315E00B08D71 /* MockApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockApp.swift; sourceTree = "<group>"; };
 		B4F25FA128DF315E00B08D71 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -37,6 +39,7 @@
 		B4F25F9328DF315E00B08D71 = {
 			isa = PBXGroup;
 			children = (
+				B4EBA74228DF43E500CE7AAB /* db.json */,
 				B4EBA74028DF326000CE7AAB /* .mockend.json */,
 				B4F25F9E28DF315E00B08D71 /* Mock */,
 				B4F25F9D28DF315E00B08D71 /* Products */,
@@ -129,6 +132,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B4F25FA728DF316000B08D71 /* Preview Assets.xcassets in Resources */,
+				B4EBA74328DF43E500CE7AAB /* db.json in Resources */,
 				B4EBA74128DF326000CE7AAB /* .mockend.json in Resources */,
 				B4F25FA428DF316000B08D71 /* Assets.xcassets in Resources */,
 			);
