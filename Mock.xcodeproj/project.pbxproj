@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		B4EBA74028DF326000CE7AAB /* .mockend.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = .mockend.json; path = Mock/.mockend.json; sourceTree = "<group>"; };
+		B4EBA74028DF326000CE7AAB /* .mockend.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = .mockend.json; sourceTree = "<group>"; };
 		B4F25F9C28DF315E00B08D71 /* Mock.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Mock.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4F25F9F28DF315E00B08D71 /* MockApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockApp.swift; sourceTree = "<group>"; };
 		B4F25FA128DF315E00B08D71 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
